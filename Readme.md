@@ -87,5 +87,11 @@
              # Remove outliers harmful to the model
 
     III - Modeling
-                
+    Objective: To develop a machine learning model that meets the final objective.
+            Basic checklist (not exhaustive)
+            #Define an evaluation function
+            #Training different models
+            #Optimisation with GridSearchCV
+            #(optional) Error analysis and return to preprocessing/EDA
+            #Learning Curve and decision making
             
